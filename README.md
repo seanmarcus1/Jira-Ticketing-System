@@ -1,9 +1,13 @@
 # Configuring an IT Ticketing System with Jira
 
 ## Overview
+
 Welcome to part 2 of my Active Directory Lab series! Click [here](https://github.com/seanmarcus1/Active-Directory-Lab-Setup) if you haven't checked out part 1 where I set up the AD environment. 
 
 In this lab, we will be simulating a realistic IT service desk workflow by integrating Jira Service Manager into our Windows domain environment. A domain user will submit an internal IT support ticket, and an analyst resolves it through Jira's web interface.
+
+
+
 ---
 
 ## Objectives
