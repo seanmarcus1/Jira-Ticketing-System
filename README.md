@@ -1,4 +1,4 @@
-# Configuring a Ticketing System with Jira
+# Configuring an IT Ticketing System with Jira
 
 ## Overview
 Welcome to part 2 of my Active Directory Lab series! Click [here](https://github.com/seanmarcus1/Active-Directory-Lab-Setup) if you haven't checked out part 1 where I set up the AD environment. 
